@@ -32,8 +32,13 @@
 
 <dt>Priorização</dt>
 <dt> Autogerenciado</dt>
+<dd> Saber o que fazer</dd>
+<dir>Atividades</dir>
+<dd> Quando fazer</dd>
+<dir>Tempo</dir>
+<dd> Quem sabe fazer</dd>
+<dd> Manter o ritmo</dd>
 
 </dl>
 </body>
 </html>
-
